@@ -1,6 +1,6 @@
 # Appications
 
-[TreeFileSize](https://www.jam-software.com/treesize_free)
+[TreeFileSize](https://www.jam-software.com/treesize_free) </br>
 [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)
 
 ### Spotify
